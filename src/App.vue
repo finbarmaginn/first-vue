@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Finbar's First Vue Application"/>
+    <HelloWorld msg="Finbar's First Vue Application" description="This application was generated using the Vue CLI, VCS is git, Herkou is watching github for any pushes to the master brach and automatically deploying the application."/>
   </div>
 </template>
 
